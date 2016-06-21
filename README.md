@@ -11,3 +11,6 @@ A challenge to commit myself to code everyday for 100 days in a row
 * I'll keep a list of daily work, like a journal but I'll not post it here. It will be used just to organize the progress of the project on weekends
 * I'll write everything in english(documentation and code)
 * This project does NOT include the theoretical part of knowledge, only practice. Will not be counted the time spent on tutorials, courses or books, only what can be committed as project.
+
+##Projects
+###[FAPEPI Monitoring!](https://github.com/camilaavilarinho/fapepi-monitoring#fapepi---monitoring)
