@@ -13,4 +13,9 @@ A challenge to commit myself to code everyday for 100 days in a row
 * This project does NOT include the theoretical part of knowledge, only practice. Will not be counted the time spent on tutorials, courses or books, only what can be committed as project.
 
 ##Projects
-###[FAPEPI Monitoring!](https://github.com/camilaavilarinho/fapepi-monitoring#fapepi---monitoring)
+###[FAPEPI Monitoring](https://github.com/camilaavilarinho/fapepi-monitoring#fapepi---monitoring)
+###Freela For Good
+  * ####CRIA
+  * ####Piauí Solar
+  * ####Vegetarianos do Piauí
+###Escoha Consciente  
