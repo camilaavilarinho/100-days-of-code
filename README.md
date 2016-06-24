@@ -15,7 +15,8 @@ A challenge to commit myself to code everyday for 100 days in a row
 ##Projects
 ###[FAPEPI Monitoring](https://github.com/camilaavilarinho/fapepi-monitoring#fapepi---monitoring)
 ###Freela For Good
-  * ####CRIA
-  * ####Piauí Solar
-  * ####Vegetarianos do Piauí
-###Escoha Consciente  
+ * CRIA
+ * Piauí Solar
+ * Vegetarianos do Piauí
+
+  
