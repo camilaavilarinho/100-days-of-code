@@ -12,11 +12,19 @@ A challenge to commit myself to code everyday for 100 days in a row
 * I'll write everything in english(documentation and code)
 * This project does NOT include the theoretical part of knowledge, only practice. Will not be counted the time spent on tutorials, courses or books, only what can be committed as project.
 
-##Projects
-###[FAPEPI Monitoring](https://github.com/camilaavilarinho/fapepi-monitoring#fapepi---monitoring)
-###Freela For Good
+##Projects :octocat:
+###[FAPEPI Monitoring](https://github.com/camilaavilarinho/fapepi-monitoring#fapepi---monitoring)   
+A place to exhibit the report of projects supported by FAPEPI (Piauí research support foundation)
+###Freela For Good   
+Is a Project of pro bono jobs. The idea is to build websites to NGOs that do works aligned to my values, ie works that I believe and support.
+The NGOS receive support to develop a website according to what they need, they give a domain name and receive the website and the hosting for free. 
+######NGOs supported: 
  * CRIA
  * Piauí Solar
  * Vegetarianos do Piauí
 
+
+##Daily update :white_check_mark:
+
+[Day 1](https://github.com/camilaavilarinho?tab=overview&from=2016-06-20) | [Day 2](https://github.com/camilaavilarinho?tab=overview&from=2016-06-21) | [Day 3](https://github.com/camilaavilarinho?tab=overview&from=2016-06-22) | [Day 4](https://github.com/camilaavilarinho?tab=overview&from=2016-06-23) | [Day 5](https://github.com/camilaavilarinho?tab=overview&from=2016-06-24) 
   
