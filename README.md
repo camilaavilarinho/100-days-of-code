@@ -19,7 +19,7 @@ A place to exhibit the report of projects supported by FAPEPI (Piauí research s
 Is a Project of pro bono jobs. The idea is to build websites to NGOs that do works aligned to my values, ie works that I believe and support.
 The NGOS receive support to develop a website according to what they need, they give a domain name and receive the website and the hosting for free. 
 ######NGOs supported: 
- * CRIA
+ * [CRIA](https://github.com/camilaavilarinho/CRIA)
  * Piauí Solar
  * Vegetarianos do Piauí
 
