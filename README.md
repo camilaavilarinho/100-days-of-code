@@ -1,5 +1,5 @@
 # 100 Days Of Code
-A challenge to commit myself to code everyday for 100 days in a row
+A challenge to commit myself to code everyday for 100 days in a row**
 
 ##Rules
 * I'll [code everyday and commit on github](#daily-update-white_check_mark) to track the evolution and my commitment with the project
@@ -28,3 +28,5 @@ The NGOS receive support to develop a website according to what they need, they 
 
 [Day 1](https://github.com/camilaavilarinho?tab=overview&from=2016-06-20) | [Day 2](https://github.com/camilaavilarinho?tab=overview&from=2016-06-21) | [Day 3](https://github.com/camilaavilarinho?tab=overview&from=2016-06-22) | [Day 4](https://github.com/camilaavilarinho?tab=overview&from=2016-06-23) | [Day 5](https://github.com/camilaavilarinho?tab=overview&from=2016-06-24) | [Day 6](https://github.com/camilaavilarinho?tab=overview&from=2016-06-25) | [Day 7](https://github.com/camilaavilarinho?tab=overview&from=2016-06-27) | [Day 8](https://github.com/camilaavilarinho?tab=overview&from=2016-06-28) | [Day 9](https://github.com/camilaavilarinho?tab=overview&from=2016-06-29) | [Day 10](https://github.com/camilaavilarinho?tab=overview&from=2016-06-30)| [Day 11](https://github.com/camilaavilarinho?tab=overview&from=2016-07-01) | [Day 12](https://github.com/camilaavilarinho?tab=overview&from=2016-07-04) | [Day 13](https://github.com/camilaavilarinho?tab=overview&from=2016-07-05) | [Day 14](https://github.com/camilaavilarinho?tab=overview&from=2016-07-07) | [Day 15](https://github.com/camilaavilarinho?tab=overview&from=2016-07-08) | [Day 16](https://github.com/camilaavilarinho?tab=overview&from=2016-07-09) 
   
+
+** *I code everyday, but is hard for me commit everyday*
