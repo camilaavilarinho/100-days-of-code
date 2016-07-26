@@ -20,8 +20,6 @@ Is a Project of pro bono jobs. The idea is to build websites to NGOs that do wor
 The NGOS receive support to develop a website according to what they need, they give a domain name and receive the website and the hosting for free. 
 ######NGOs supported: 
  * [CRIA](https://github.com/camilaavilarinho/CRIA)
- * Piauí Solar
- * Vegetarianos do Piauí
 
 ###[Free Code Camp](https://github.com/camilaavilarinho/my-free-code-camp-code) 
 My code of the Intermediate Front End Development Projects
